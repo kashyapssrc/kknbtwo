@@ -1,0 +1,6 @@
+id,first_name,last_name,email,birth_date,address_id,street,city,postal_code
+9,miru,sb,miru@gm.com,2/27/1995,35,ramapuram,chennai,600085
+10,miru,sbb,miru@gma.com,2/27/1995,36,ramapuram,chennai,600085
+11,miru,s,miru@gmai.com,2/27/1995,45,ramapuram,chennai,600085
+12,miru,sn,miru@gmail.com,2/27/1995,46,ramapuram,chennai,600085
+13,as,sn,m.com,2/27/1995,58,ramapuram,chennai,600076

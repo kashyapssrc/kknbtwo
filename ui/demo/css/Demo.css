@@ -1,0 +1,115 @@
+@media screen and (max-width: 600px) {
+
+body {
+  margin: 0;
+}
+
+  #toolbar {
+    background: #585858;
+    position: fixed;
+    width: 100%;
+    height: 40px;
+  }
+
+  #header-section {
+    background-color: #f3f3f3;
+    position: fixed;
+    width: 100%;
+    top: 40px;
+    border-bottom: 1px solid #cecece;
+    height: 80px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .row {
+    content: "";
+    clear: both;
+    top: 120px;
+    width: 100%;
+  }
+
+  .home-block {
+    width: 100%;
+    height: 400px;
+    background-image: url(../assests/image/home.jpg);
+    background-size: cover;
+  }
+
+  .achievement-block {
+    width: 100%;
+    height: 400px;
+    background-image: url(../assests/image/achievement.jpg);
+    background-size: cover;
+  }
+
+  .team-list-block {
+    width: 100%;
+    height: 400px;
+    background-image: url(../assests/image/teamlist.jpg);
+    background-size: cover;
+  }
+
+  .last-block {
+    width: 100%;
+    height: 400px;
+  }
+
+  .photos-block {
+    height: 400px;
+    background-image: url(../assests/image/photos.jpg);
+    background-size: cover;
+    width: 50%;
+    float: left;
+  }
+
+  .carrer-stats-block {
+
+    height: 400px;
+    background-image: url(../assests/image/carrerstats.jpg);
+    background-size: cover;
+    width: 50%;
+    float: left;
+  }
+
+  .second-row {
+    content: "";
+    clear: both;
+    top: 520px;
+    width: 100%;
+  }
+
+  .latest-news-block {
+    width: 100%;
+    padding: 12px;
+    background-image: url(../assests/image/forum.jpg);
+    background-size: cover;
+    height: 550px;
+  }
+
+  .forum-block {
+    width: 100%;
+    height: 550px;
+     background-image: url(../assests/image/news.jpg);
+    background-size: cover;
+  }
+
+  .other-block {
+    width: 100%;
+    height: 550px;
+     background-image: url(../assests/image/other.jpg);
+    background-size: cover;
+  }
+
+  #section {
+    float: left;
+  }
+
+  .column4 {
+    float: left;
+    width: 15%;
+    height: 250px;
+  }
+}

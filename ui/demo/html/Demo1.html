@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+    <body onload="personDetails()">
+        <div id="menu-bar">
+          <ul id="menu-list" class="a">
+            <li><a href="personDetails"><span>Person</span></a> </li>
+            <li><a href="personDetails"><span>Address</span></a></li>
+          </ul>
+        </div>
+      <div id=""
+           class="outer-container">
+        <div id="" 
+             class="person-detail-container">
+          <table id="person-details-info">
+          </table>
+          <span id="button">
+            <button id="create-person-detail" type="button" onclick="clearField()">Add</button>
+          </span>
+        </div>
+        <div id="" class="form-container">
+          <form>
+           <div class="form-field-container ">
+            <div>
+              <label><b>First Name</b></label>
+              <input id="firstname"
+                     type="text" />
+            </div>
+            <div>
+              <label><b>Last Name</b></label>
+              <input id="lastname" 
+                     type="text" />
+            </div>
+            <div>
+              <label><b>Email</b></label>
+              <input id="email" 
+                     type="text"  />
+            </div>
+            <div>
+              <label><b>Birth Date</b></label>
+              <input id="birthdate" 
+                     type="text"  />
+            </div>
+            <div>
+              <label><b>Created Date</b></label>
+              <input id="createddate" 
+                     type="text" />
+            </div>
+            <div>
+              <label><b>Admin</b></label>
+              <input id="admin" 
+                     type="text" />
+            </div>
+            <div>
+              <button id="form-submit" 
+                      type="button" 
+                      onclick="updatedField()">Submit
+              </button>
+            </div>
+        </div>
+        </div>
+      <script src="../script/read.js" async></script>
+      <script src="../script/dynamic.js" async></script>
+    </body>
+</html>

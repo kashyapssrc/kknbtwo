@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "TestNgSuite" parallel = "false">
+<parameter name = "person" value = ", rahul16@, 13-10/1996, sadas">
+</parameter>
+<parameter name = "expectedResult" value = "first name is empty"> </parameter>
+<test name = "testCreate_negative">
+<classes>
+<class 
+    name = "com.objectfrontier.training.jdbc.testing.PersonServiceTest"/>
+</classes>
+</test>
+
+</suite>

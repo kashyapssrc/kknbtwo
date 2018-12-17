@@ -1,0 +1,41 @@
+[   {
+    "id" : 4,
+    "firstname" : "rahul",
+    "lastname" : "jain",
+    "email" : "rahulsc@gmail.com",
+    "birthdate" : "13-10-1996",
+    "admin" : 0
+  },
+  {
+    "id" : 5,
+    "firstname" : "karthik",
+    "lastname" : "narayanasamy",
+    "email" : "karthik6696@gmail.com",
+    "birthdate" : "06-06-1996",
+    "admin" : 1
+  }, 
+  {
+    "id" : 1,
+    "firstname" : "karthik",
+    "lastname" : "narayanasamy",
+    "email" : "karthik6696@gmail.com",
+    "birthdate" : "06-06-1996",
+    "admin" : 1
+  }, 
+  {
+    "id" : 2,
+    "firstname" : "ashwin",
+    "lastname" : "kumar",
+    "email" : "ashwin@gmail.com",
+    "birthdate" : "19-07-1996",
+    "admin" : 1
+  },
+    {
+    "id" : 3,
+    "firstname" : "surya",
+    "lastname" : "narayanan",
+    "email" : "surya@gmail.com",
+    "birthdate" : "31-10-1996",
+    "admin" : 1
+  }
+]

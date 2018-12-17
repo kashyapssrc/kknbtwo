@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Test Suite" parallel="methods">
+  <test name="Method Test Cases">
+    <classes>
+       <class name="com.objectfrontier.training.jdbc.testing.PersonServiceTest">
+        <methods>
+        <include name = "testCreate_positive" />
+
+      </methods>
+       </class>
+    </classes>
+  </test>
+</suite>

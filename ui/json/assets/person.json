@@ -1,0 +1,24 @@
+[ {
+    "firstname" : "karthik",
+    "lastname" : "narayanasamy",
+    "email" : "karthik6696@gmail.com",
+    "birthdate" : "06-06-1996",
+    "createddate" : "12:12:11",
+    "admin" : 1
+  }, 
+  {
+    "firstname" : "ashwin",
+    "lastname" : "kumar",
+    "email" : "ashwin@gmail.com",
+    "birthdate" : "19-07-1996",
+    "createddate" : "12:12:11",
+    "admin" : 1
+  },
+    {
+    "firstname" : "surya",
+    "lastname" : "narayanan",
+    "email" : "surya@gmail.com",
+    "birthdate" : "31-10-1996",
+    "createddate" : "12:12:11",
+    "admin" : 1
+  } ]

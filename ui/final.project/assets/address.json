@@ -1,0 +1,25 @@
+[ {
+    "id" : 1,
+    "street" : "t.nagar",
+    "city" : "chennai",
+    "postalCode" : "600017"
+  }, 
+  {
+    "id" : 2,
+    "street" : "ICF",
+    "city" : "chennai",
+    "postalCode" : "600102"
+  },
+    {
+    "id" : 3,
+    "street" : "vadapalani",
+    "city" : "chennai",
+    "postalCode" : "600045"
+  },
+  {
+    "id" : 4,
+    "street" : "saidapet",
+    "city" : "chennai",
+    "postalCode" : "600033"
+  }
+]

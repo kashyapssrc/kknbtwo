@@ -1,0 +1,71 @@
+a {
+    text-decoration: none;
+    color: red;
+}
+
+input {
+  float: right;
+}
+
+ul.a {list-style-type: none;} 
+
+#menu-bar {
+    height: 100%;
+    width: 250px;
+    background-color: #f1f1f1;
+    position: fixed;
+    z-index: 1;
+    overflow: auto;
+    box-sizing: inherit;
+}
+
+.outer-container {
+  margin-left: 250px;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+#person-details-info {
+    margin: 0 auto;
+    position: relative;
+    width: 1250px;
+}
+
+#save-button {
+    z-index: 1;
+    overflow: auto;
+    position: sticky;
+    right: 60px;
+    top: 190px;
+    float: right;
+    text-align: center;
+}
+
+#create-person-detail {
+      width: 100px;
+}
+
+.form-field-container {
+    width: 350px;
+    height: 30px;
+    margin: 10px auto 0 auto;
+    text-align: center;
+}
+
+
+.person-detail-container {
+  border: 1px dotted black;
+  flex: 1 0 auto;
+}
+
+.form-container {
+      margin: 0 auto;
+    position: relative;
+}
+
+.table, th, td {
+  border: 1px solid black;
+}
